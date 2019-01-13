@@ -1,0 +1,54 @@
+10-09-2018 17:22:24 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:22:24 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:22:24 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:22:24.436+05:30
+10-09-2018 17:22:24 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:22:24.436+05:30
+10-09-2018 17:22:24 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:22:24 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:22:24 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:22:24 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:22:24 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:75)] - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+10-09-2018 17:22:24 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:75)] - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+10-09-2018 17:22:26 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:78)] - =============Browser opened==========
+10-09-2018 17:22:26 INFO [TestNG-tests-2] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:78)] - =============Browser opened==========
+10-09-2018 17:22:26 INFO [TestNG-tests-1] [utilities.TestBase] [readConfigFile] [utilities.TestBase.readConfigFile(TestBase.java:164)] - =============Reading config file==========
+10-09-2018 17:22:30 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:81)] - =============Navigated to URL==========
+10-09-2018 17:22:30 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:22:30 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:22:30.925+05:30
+10-09-2018 17:22:30 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:22:30 INFO [TestNG-tests-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:22:39 INFO [TestNG-tests-1] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:136)] - =============Browser closed==========
+10-09-2018 17:22:39 INFO [TestNG-tests-1] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:137)] - =============Session Ends==========
+10-09-2018 17:22:39 INFO [TestNG-tests-1] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:138)] - Test compeleted on: 2018-09-10T17:22:39.199+05:30
+10-09-2018 17:22:39 INFO [TestNG-tests-1] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:139)] - ==================================================
+10-09-2018 17:23:45 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:23:45 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:23:45.783+05:30
+10-09-2018 17:23:45 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:23:45 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:23:45 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:75)] - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+10-09-2018 17:23:47 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:78)] - =============Browser opened==========
+10-09-2018 17:23:47 INFO [main] [utilities.TestBase] [readConfigFile] [utilities.TestBase.readConfigFile(TestBase.java:164)] - =============Reading config file==========
+10-09-2018 17:23:51 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:81)] - =============Navigated to URL==========
+10-09-2018 17:23:51 INFO [TestNG-test=login test in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:23:51 INFO [TestNG-test=login test in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:23:51.950+05:30
+10-09-2018 17:23:51 INFO [TestNG-test=login test in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:23:51 INFO [TestNG-test=login test in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:136)] - =============Browser closed==========
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:137)] - =============Session Ends==========
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:138)] - Test compeleted on: 2018-09-10T17:24:02.177+05:30
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:139)] - ==================================================
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:24:02.199+05:30
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:75)] - /Users/amiteshshukla/Documents/Work/mac-eclipse-space/seleniumMaven
+10-09-2018 17:24:01 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:78)] - =============Browser opened==========
+10-09-2018 17:24:02 INFO [main] [utilities.TestBase] [readConfigFile] [utilities.TestBase.readConfigFile(TestBase.java:164)] - =============Reading config file==========
+10-09-2018 17:24:06 INFO [main] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:81)] - =============Navigated to URL==========
+10-09-2018 17:24:06 INFO [TestNG-test=Creating a new mail in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:34)] - ==================================================
+10-09-2018 17:24:06 INFO [TestNG-test=Creating a new mail in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:61)] - Test Started on: 2018-09-10T17:24:06.560+05:30
+10-09-2018 17:24:06 INFO [TestNG-test=Creating a new mail in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:62)] - =============Session Starts==========
+10-09-2018 17:24:06 INFO [TestNG-test=Creating a new mail in Chrome-1] [utilities.TestBase] [getBrowser] [utilities.TestBase.getBrowser(TestBase.java:63)] - Mac OS X
+10-09-2018 17:24:38 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:136)] - =============Browser closed==========
+10-09-2018 17:24:38 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:137)] - =============Session Ends==========
+10-09-2018 17:24:38 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:138)] - Test compeleted on: 2018-09-10T17:24:38.464+05:30
+10-09-2018 17:24:38 INFO [main] [utilities.TestBase] [closeBrowser] [utilities.TestBase.closeBrowser(TestBase.java:139)] - ==================================================

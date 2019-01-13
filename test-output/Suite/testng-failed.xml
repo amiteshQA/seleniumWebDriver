@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="utilities.ExtentReporterNG"/>
+    <listener class-name="utilities.TestListenerClass"/>
+  </listeners>
+  <test thread-count="3" name="Creating a new mail in Chrome(failed)" parallel="tests">
+    <parameter name="myBrowser" value="chrome"/>
+    <classes>
+      <class name="com.CiviCrm.Practice.NewMailling">
+        <methods>
+          <include name="getBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="login"/>
+          <include name="createMail"/>
+          <include name="initialze"/>
+        </methods>
+      </class> <!-- com.CiviCrm.Practice.NewMailling -->
+    </classes>
+  </test> <!-- Creating a new mail in Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

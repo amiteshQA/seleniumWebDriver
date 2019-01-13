@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52737" started-at="2018-09-10T11:53:45Z" finished-at="2018-09-10T11:54:38Z">
+    <groups>
+    </groups>
+    <test name="login test in Chrome" duration-ms="16449" started-at="2018-09-10T11:53:45Z" finished-at="2018-09-10T11:54:02Z">
+      <class name="com.CiviCrm.Practice.Login">
+        <test-method status="PASS" signature="getBrowser(java.lang.String)[pri:0, instance:com.CiviCrm.Practice.Login@477b4cdf]" name="getBrowser" is-config="true" duration-ms="6207" started-at="2018-09-10T11:53:45Z" finished-at="2018-09-10T11:53:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CiviCrm.Practice.Login@477b4cdf]" name="initialize" is-config="true" duration-ms="692" started-at="2018-09-10T11:53:51Z" finished-at="2018-09-10T11:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loggingIn()[pri:0, instance:com.CiviCrm.Practice.Login@477b4cdf]" name="loggingIn" duration-ms="9441" started-at="2018-09-10T11:53:52Z" finished-at="2018-09-10T11:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.CiviCrm.Practice.Login@477b4cdf]" name="closeBrowser" is-config="true" duration-ms="88" started-at="2018-09-10T11:54:02Z" finished-at="2018-09-10T11:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.CiviCrm.Practice.Login -->
+    </test> <!-- login test in Chrome -->
+    <test name="Creating a new mail in Chrome" duration-ms="36271" started-at="2018-09-10T11:54:02Z" finished-at="2018-09-10T11:54:38Z">
+      <class name="com.CiviCrm.Practice.NewMailling">
+        <test-method status="PASS" signature="getBrowser(java.lang.String)[pri:0, instance:com.CiviCrm.Practice.NewMailling@1ce24091]" name="getBrowser" is-config="true" duration-ms="4358" started-at="2018-09-10T11:54:02Z" finished-at="2018-09-10T11:54:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="initialze()[pri:0, instance:com.CiviCrm.Practice.NewMailling@1ce24091]" name="initialze" is-config="true" duration-ms="220" started-at="2018-09-10T11:54:06Z" finished-at="2018-09-10T11:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialze -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.CiviCrm.Practice.NewMailling@1ce24091]" name="login" duration-ms="6228" started-at="2018-09-10T11:54:06Z" finished-at="2018-09-10T11:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createMail()[pri:0, instance:com.CiviCrm.Practice.NewMailling@1ce24091]" name="createMail" duration-ms="25353" started-at="2018-09-10T11:54:13Z" depends-on-methods="com.CiviCrm.Practice.NewMailling.login" finished-at="2018-09-10T11:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.CiviCrm.Practice.NewMailling@1ce24091]" name="closeBrowser" is-config="true" duration-ms="99" started-at="2018-09-10T11:54:38Z" finished-at="2018-09-10T11:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.CiviCrm.Practice.NewMailling -->
+    </test> <!-- Creating a new mail in Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

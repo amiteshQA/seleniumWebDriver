@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="182182" started-at="2018-08-27T15:14:05Z" finished-at="2018-08-27T15:17:08Z">
+    <groups>
+    </groups>
+    <test name="login test in Chrome" duration-ms="182182" started-at="2018-08-27T15:14:05Z" finished-at="2018-08-27T15:17:08Z">
+      <class name="com.CiviCrm.Practice.Login">
+        <test-method status="PASS" signature="getBrowser(java.lang.String)[pri:0, instance:com.CiviCrm.Practice.Login@57a3af25]" name="getBrowser" is-config="true" duration-ms="12843" started-at="2018-08-27T15:14:05Z" finished-at="2018-08-27T15:14:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CiviCrm.Practice.Login@57a3af25]" name="initialize" is-config="true" duration-ms="1229" started-at="2018-08-27T15:14:18Z" finished-at="2018-08-27T15:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.CiviCrm.Practice.Login@57a3af25]" name="closeBrowser" is-config="true" duration-ms="46" started-at="2018-08-27T15:17:08Z" finished-at="2018-08-27T15:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.CiviCrm.Practice.Login -->
+    </test> <!-- login test in Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
